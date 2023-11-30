@@ -30,3 +30,4 @@ Dans la fonction setup, le programme initialise la communication série, configu
 La fonction loop permet de faire défiler le texte lorsque celui-ci est trop long pour rentrer sur une seule ligne. Lorsqu'une phrase est sélectionnée, ses couleurs sont inversées. Lorsque l'utilisateur appuie sur "select", la phrase est envoyée au serveur et affichée en grand sur l'écran de l'autre utilisateur.
 
 **Note :** En raison de problèmes matériels, le code peut présenter des retards et des problèmes, tels que la réception du message par les deux utilisateurs et l'affichage incorrect sur l'écran.
+La vidéo de présentation n'est également pas finie car le prototype n'a pas pu être filmé.
